@@ -29,6 +29,456 @@
       "size" : [28,30,31,34],
       "rating" : 5,
       "reviews" :  5
+    },
+    {
+      "id" : 102,
+      "name" : "Jake Mavi Black Gri Gabardin Pantolon",
+      "category" : "SkinnyNormal BelDar Paça",
+      "description" : "Mavi nin Erkek Koleksiyonundan Jake Mavi Black Gri Gabardin Pantolon",
+      "stock" : 8,
+      "image" : [
+        {
+          "id" : 205,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h15/h52/9719505846302/0042235018_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":206,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h16/h4f/9719505780766/0042235018_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":207,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h6c/h52/9719505879070/0042235018_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":208,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hbd/h51/9719505813534/0042235018_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 499.99,
+      "color" : ["#848182","#beb9b1","#ffffff","#323b45","#212128"],
+      "size" : [28,29,30,31,32,34],
+      "rating" : 4.5,
+      "reviews" :  18
+    },
+    {
+      "id" : 103,
+      "name" : "Marcus Lacivert Gabardin Pantolon",
+      "category" : "Slim StraightNormal BelDar Paça",
+      "description" : "Mavi nin Erkek Koleksiyonundan Marcus Lacivert Gabardin Pantolon",
+      "stock" : 18,
+      "image" : [
+        {
+          "id" : 209,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h8f/ha8/9708800868382/0035135225_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":210,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hd0/ha4/9708800737310/0035135225_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":211,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h10/ha1/9708800606238/0035135225_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":212,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hd1/ha1/9708800671774/0035135225_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 249.99,
+      "color" : ["#9a734f","#253243","#63645f"],
+      "size" : [28,30,31,34],
+      "rating" : 4,
+      "reviews" :  17
+    },
+    {
+      "id" : 104,
+      "name" : "Jake Mavi Gri Gabardin Pantolon",
+      "category" : "SkinnyNormal Bel",
+      "description" : "Mavi nin Erkek Koleksiyonundan Jake Mavi Gri Gabardin Pantolon",
+      "stock" : 9,
+      "image" : [
+        {
+          "id" : 213,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h0f/h30/9813477195806"
+        },
+        {
+          "id":214,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h78/h33/9813477294110"
+        },
+        {
+          "id":215,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h1c/h32/9813480800286"
+        },
+        {
+          "id":216,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hce/hb8/9813470019614"
+        }
+      ],
+      "price" : 200,
+      "color" : ["#101010","#151514","#111112","#212f3c","#161412"],
+      "size" : [28,30,31,32,34,36],
+      "rating" : 3.5,
+      "reviews" :  28
+    },
+    {
+      "id" : 105,
+      "name" : "Haki Kargo Pantolon",
+      "category" : "Regular Fit / Normal KesimNormal Bel",
+      "description" : "Mavi nin Erkek Koleksiyonundan Haki Kargo Pantolon",
+      "stock" : 26,
+      "image" : [
+        {
+          "id" : 217,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h62/ha4/9729279983646/0010044-71816_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":218,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hf1/hae/9729279655966/0010044-71816_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":219,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h21/ha8/9729279852574/0010044-71816_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":220,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h9a/hae/9729279688734/0010044-71816_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 149.99,
+      "color" : ["#4d3e2c"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 3,
+      "reviews" :  35
+    },
+    {
+      "id" : 106,
+      "name" : "Mavi Logo Nakışlı Mavi Gömlek",
+      "category" : "Fitted / Vücuda Oturan Kesim",
+      "description" : "Mavi nin Erkek Koleksiyonundan Uzun Kollu Mavi Gömlek",
+      "stock" : 45,
+      "image" : [
+        {
+          "id" : 221,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h76/h9f/9716563705886/021897-34713_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":222,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h37/ha0/9716563771422/021897-34713_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":223,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hcd/h9f/9716563738654/021897-34713_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":224,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h35/ha3/9716563836958/021897-34713_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 299.99,
+      "color" : ["#8f7e70","#6a7d8c","#74868d","#ccc0bf"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 3.5,
+      "reviews" :  65
+    },
+    {
+      "id" : 107,
+      "name" : "Mavi Gömlek",
+      "category" : "Slim Fit / Dar Kesim",
+      "description" : "Mavi nin Erkek Koleksiyoundan Mavi Gömlek",
+      "stock" : 38,
+      "image" : [
+        {
+          "id" : 225,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h7a/hb7/9615597535262/021123-35107_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":226,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h11/hb4/9615597436958/021123-35107_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":227,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h13/hb1/9615597371422/021123-35107_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":228,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hba/hb3/9615597404190/021123-35107_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 174.99,
+      "color" : ["#9ab1bf","#a5aab7"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 3,
+      "reviews" :  46
+    },
+    {
+      "id" : 108,
+      "name" : "Lacivert Gömlek",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi nin Erkek Koleksiyonundan Lacivert Gömlek",
+      "stock" : 13,
+      "image" : [
+        {
+          "id" : 229,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h31/hbc/9714352717854"
+        },
+        {
+          "id":230,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h06/h77/9714350915614"
+        },
+        {
+          "id":231,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h38/hd3/9714356027422"
+        },
+        {
+          "id":232,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h2d/hbb/9714349178910"
+        }
+      ],
+      "price" : 188.99,
+      "color" : ["#15141a"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 4,
+      "reviews" :  32
+    },
+    {
+      "id" : 108,
+      "name" : "Mavi Logo Nakışlı Yeşil Gömlek",
+      "category" : "Fitted / Vücuda Oturan Kesim",
+      "description" : "Mavi nin Erkek Koleksiyonundan Yeşil Gömlek",
+      "stock" : 36,
+      "image" : [
+        {
+          "id" : 233,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h67/hef/9716577599518/021897-32344_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":234,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h56/hec/9716577665054/021897-32344_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":235,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h16/hf0/9716577533982/021897-32344_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":236,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/had/hec/9716577632286/021897-32344_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 299.99,
+      "color" : ["#766f5f","#6b7e8d","#75878e","#e1d7d6"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 4.5,
+      "reviews" :  8
+    },
+    {
+      "id" : 109,
+      "name" : "Gri Gömlek",
+      "category" : "Loose Fit / Bol Rahat Kesim",
+      "description" : "Mavi nin Erkek Koleksiyonundan Gri Gömlek",
+      "stock" : 22,
+      "image" : [
+        {
+          "id" : 237,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hab/h46/9697103740958"
+        },
+        {
+          "id":238,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h25/h7c/9697106722846"
+        },
+        {
+          "id":239,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h73/h3c/9697103446046"
+        },
+        {
+          "id":240,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h37/h12/9697107738654"
+        }
+      ],
+      "price" : 209.99,
+      "color" : ["#524e4d"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 3.8,
+      "reviews" :  21
+    },
+    {
+      "id" : 110,
+      "name" : "Andy Mavi Black Jean Gömlek",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi nin Erkek Jean Koleksiyonundan Andy Mavi Black Jean Gömlek",
+      "stock" : 15,
+      "image" : [
+        {
+          "id" : 241,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h5b/h01/9760838090782/0248429628_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":242,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hfe/h65/9760837107742/0248429628_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":243,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/he1/h4d/9760837828638/0248429628_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":244,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/he6/h11/9760838549534/0248429628_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 409.99,
+      "color" : ["#142438","#45668a"],
+      "size" : ["XS","S","M","L","XL","XXL"],
+      "rating" : 4.2,
+      "reviews" :  98
+    },
+    {
+      "id" : 111,
+      "name" : "Freedom of Space X Mavi Logo Baskılı Siyah Tişört",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi ve Freedom of Space, 90ların sokak kültürünü kült haline getiren görünümleri gelecek nesillere tasarlamak için bir araya geldi. freedomofspacexmavi ile sen de sokak stilini yeniden yorumla! Freedom of Space X Mavi Logo Baskılı Siyah Tişört",
+      "stock" : 99,
+      "image" : [
+        {
+          "id" : 245,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h5c/h79/9780946436126/0610911-900_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":246,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h65/h6b/9780946862110/0610911-900_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":247,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h64/hd8/9780945780766/0610911-900_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":248,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h9d/h75/9780946567198/0610911-900_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 299.99,
+      "color" : ["#00586c","#e8ac00","#0c0e0f"],
+      "size" : ["XS","S","M","L"],
+      "rating" : 4,
+      "reviews" :  64
+    },
+    {
+      "id" : 112,
+      "name" : "Freedom of Space X Mavi Logolu Yeşil Tişört",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi ve Freedom of Space, 90ların sokak kültürünü kült haline getiren görünümleri gelecek nesillere tasarlamak için bir araya geldi. freedomofspacexmavi ile sen de sokak stilini yeniden yorumla! Freedom of Space X Mavi Logolu Yeşil Tişört",
+      "stock" : 55,
+      "image" : [
+        {
+          "id" : 249,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hbe/hec/9780326203422"
+        },
+        {
+          "id":250,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h9c/h9b/9780325974046"
+        },
+        {
+          "id":251,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h0c/h91/9780325646366"
+        },
+        {
+          "id":252,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h6d/h2e/9780329381918"
+        }
+      ],
+      "price" : 299.99,
+      "color" : ["#c20b36","#11593b","#b0aaaa"],
+      "size" : ["XS","S","M","L","XL"],
+      "rating" : 3.5,
+      "reviews" :  67
+    },
+    {
+      "id" : 113,
+      "name" : "Freedom of Space X Mavi Logo Baskılı Beyaz Tişört",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi ve Freedom of Space, 90ların sokak kültürünü kült haline getiren görünümleri gelecek nesillere tasarlamak için bir araya geldi. freedomofspacexmavi ile sen de sokak stilini yeniden yorumla! Freedom of Space X Mavi Logo Baskılı Beyaz Tişört",
+      "stock" : 48,
+      "image" : [
+        {
+          "id" : 253,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hbf/hb3/9780931854366/0610910-620_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":254,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hf9/h49/9780935360542/0610910-620_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":255,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hba/h0e/9780934869022/0610910-620_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":256,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h2e/hfe/9780932018206/0610910-620_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 299.99,
+      "color" : ["#d5d1d2","#121f4f","#e95521"],
+      "size" : ["XS","S","M","L"],
+      "rating" : 4.2,
+      "reviews" :  92
+    },
+    {
+      "id" : 114,
+      "name" : "Freedom of Space X Mavi Logo Baskılı Sarı Tişört",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi ve Freedom of Space, 90ların sokak kültürünü kült haline getiren görünümleri gelecek nesillere tasarlamak için bir araya geldi. freedomofspacexmavi ile sen de sokak stilini yeniden yorumla! Freedom of Space X Mavi Logo Baskılı Sarı Tişört",
+      "stock" : 56,
+      "image" : [
+        {
+          "id" : 257,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h3d/h12/9780942897182/0610911-82825_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":258,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hc3/h2d/9780942077982/0610911-82825_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":259,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/ha6/h3f/9780943192094/0610911-82825_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":260,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h2c/h16/9780947255326/0610911-82825_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 299.99,
+      "color" : ["#005a6d","#e7ab01","#0c0e0f"],
+      "size" : ["XS","S","M","L","XL"],
+      "rating" : 2.5,
+      "reviews" :  49
+    },
+    {
+      "id" : 115,
+      "name" : "Kamuflaj Baskılı Gri Tişört",
+      "category" : "Regular Fit / Normal Kesim",
+      "description" : "Mavi nin Erkek Koleksiyonundan Kamuflaj Baskılı Gri Tişört",
+      "stock" : 26,
+      "image" : [
+        {
+          "id" : 261,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h2d/h95/9479957413918/066771-34060_image_1.jpg_Default-MainProductImage"
+        },
+        {
+          "id":262,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/h9f/hf4/9479958102046/066771-34060_image_2.jpg_Default-MainProductImage"
+        },
+        {
+          "id":263,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hc6/hfb/9479958331422/066771-34060_image_3.jpg_Default-MainProductImage"
+        },
+        {
+          "id":264,
+          "url" : "https://sky-static.mavi.com/sys-master/maviTrImages/hb5/hf8/9479958265886/066771-34060_image_4.jpg_Default-MainProductImage"
+        }
+      ],
+      "price" : 55.99,
+      "color" : ["#89827e"],
+      "size" : ["XS","S"],
+      "rating" : 3.2,
+      "reviews" :  63
     }
   ]
 }
